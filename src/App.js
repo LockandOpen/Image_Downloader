@@ -1,20 +1,21 @@
 import React from 'react';
-import Header from './Header';
-import Hero from './Hero';
-import Features from './Features';
-import Download from './Download';
-import Footer from './Footer';
+import Header from './container/Header';
+import Hero from './container/Hero';
+import Features from './container/Features';
+import Download from './container/Download';
+import Footer from './container/Footer';
 import './App.css';
-import InstallationGuide from './InstallationGuide';
-import './Learning.css';
-import Learning from './Learning';
-import AntivirusInstruction from './AntivirusInstruction';
+import InstallationGuide from './container/InstallationGuide'; 
+import Learning from './container/Learning';
+import AntivirusInstruction from './container/AntivirusInstruction';
+import Intro from './container/Intro';
 
 function App() {
   return (
     <div className="App">
       <Header />
       <Hero />
+      <Intro/>
       <Features />
       <Download />
       <InstallationGuide/>

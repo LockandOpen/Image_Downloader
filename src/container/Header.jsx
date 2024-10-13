@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';
-import logo from './1-removebg-preview.png'; 
+import '../App.css';
+import logo from '../images/1-removebg-preview.png'; 
 
 const Header = () => {
   return (
@@ -8,20 +8,18 @@ const Header = () => {
      
       <div className="logo-container" id="home">
         <img src={logo} alt="Picstream Logo" className="header-logo" />
-        <div className="logo-text">LockAndOpen</div>
+        <div className="logo-text">Picstream</div>
       </div>
       
-      {/* <nav className="nav">
+      <nav className="nav">
         <ul>
           <li><a href="#home">Home</a></li>
           <li><a href="#features">Features</a></li>
           <li><a href="#download">How to Download</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
-      </nav> */}
+      </nav>
     </header>
-
-    
   );
 };
 
