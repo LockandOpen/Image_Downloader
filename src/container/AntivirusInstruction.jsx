@@ -16,7 +16,7 @@ const AntivirusInstruction = () => {
           <div className="responsive-video-wrapper">
             <iframe
               className="responsive-video-embed"
-              src="https://www.youtube.com/embed/a_1eEyfuwvs?autoplay=1&mute=1"
+              src="https://www.youtube.com/embed/a_1eEyfuwvs?autoplay=1&mute=1&loop=1&playlist=a_1eEyfuwvs" 
               title="Video 1: For Avast"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
@@ -29,7 +29,7 @@ const AntivirusInstruction = () => {
           <div className="responsive-video-wrapper">
             <iframe
               className="responsive-video-embed"
-              src="https://www.youtube.com/embed/j2q9cDWH09M?autoplay=1&mute=1"
+              src="https://www.youtube.com/embed/j2q9cDWH09M?autoplay=1&mute=1&loop=1&playlist=j2q9cDWH09M" 
               title="Video 2: For McAfee"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
@@ -42,7 +42,7 @@ const AntivirusInstruction = () => {
           <div className="responsive-video-wrapper">
             <iframe
               className="responsive-video-embed"
-              src="https://www.youtube.com/embed/gTelqDwCf_A?autoplay=1&mute=1"
+              src="https://www.youtube.com/embed/gTelqDwCf_A?autoplay=1&mute=1&loop=1&playlist=gTelqDwCf_A" 
               title="Video 3: For Norton"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen

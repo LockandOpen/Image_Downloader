@@ -12,10 +12,10 @@ const Footer = () => {
           <a href="https://www.linkedin.com/company/lockandopen" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="footer-icon" /> LinkedIn
           </a>
-          <a href="https://www.youtube.com/channel/picstream" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.youtube.com/@LockAndOpen_official" target="_blank" rel="noopener noreferrer">
             <FaYoutube className="footer-icon" /> YouTube
           </a>
-          <a href="https://www.instagram.com/picstream" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/lockandopen_official/" target="_blank" rel="noopener noreferrer">
             <FaInstagram className="footer-icon" /> Instagram
           </a>
         </p>

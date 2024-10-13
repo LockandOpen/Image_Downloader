@@ -8,7 +8,7 @@ const Intro = () => {
         <h2 className="intro-video-title">Watch the Introduction to Picstream</h2>
         <iframe
           className="intro-video-frame"
-          src="https://www.youtube.com/embed/emgE56GYZfc?autoplay=1&mute=1"
+          src="https://www.youtube.com/embed/emgE56GYZfc?autoplay=1&mute=1&loop=1&playlist=emgE56GYZfc" 
           title="Intro Video"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
