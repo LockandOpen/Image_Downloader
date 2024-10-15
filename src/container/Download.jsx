@@ -18,7 +18,7 @@ const Download = () => {
         <li>
           Scroll above to download or{" "}
           <a
-            href="https://github.com/LockandOpen/PicStream_setup/releases/download/v1.0/PicStream.zip"
+            href="https://github.com/LockandOpen/PicStream_setup/releases/download/v1.1/PicStream_rc.zip"
             className="download-button"
             download="picStream-setup"
             onClick={handleDownloadClick} // Attach the click handler
