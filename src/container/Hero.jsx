@@ -31,7 +31,7 @@ const Hero = () => {
       </p>
 
       <a
-        href="https://github.com/LockandOpen/PicStream_setup/releases/download/v1.1/PicStream_rc.zip"
+        href="https://github.com/LockandOpen/PicStream_setup/releases/download/v1.2/PicStream_.zip"
         className="hero-section-cta"
         download="picStream-setup"
         onClick={handleDownloadClick} // Track the download button click
