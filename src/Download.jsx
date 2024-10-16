@@ -7,7 +7,7 @@ const Download = () => {
       <h2>How to Download</h2>
       <ol>
       <li>Read the instructions given below before downloading</li>
-        <li>Scroll above to download or <a href="#download">click here</a></li>
+        <li>To download PicStream  <a href="#download">click here</a></li>
         
       </ol>
     </section>

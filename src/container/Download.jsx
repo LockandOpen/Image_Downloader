@@ -16,7 +16,7 @@ const Download = () => {
       <ol className="download-instructions">
         <li>Read the instructions given below before downloading.</li>
         <li>
-          Scroll above to download or{" "}
+        To download PicStream{" "}
           <a
             href="https://github.com/LockandOpen/PicStream_setup/releases/download/v1.2/PicStream_1.0.zip"
             className="download-button"
